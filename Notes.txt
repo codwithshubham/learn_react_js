@@ -1,0 +1,19 @@
+🥀🍂 Let's Learn React JS 🍃🥀
+
+🌿#1. Introduction to the Series.
+🌿#2. What is React & SPA? Why should you learn ReactJS?
+🌿#3. Example of Single Page Applications vs Non SPA Web Pages.
+🌿#4. What are components in Single Page Applications?
+🌿#5. Example of components in a Real Web Application.
+🌿#6. How to create your First React Application.
+🌿#7. Coding React on CodeSandbox.io.
+🌿#8. Create React App.
+🌿#9. Installing Node and NPM for React and Create React App.
+🌿#10. Using NPX create-react-app.
+🌿#11. VSCode and Why you should use VSCode for ReactJS?
+🌿#12. How node modules, package.json, and dependencies work in React?
+🌿#13. Running the React App with NPM Start.
+🌿#14. Index.js and App.js Explanation.
+🌿#15. JSX & Editing React Code to change the Application.
+🌿#16. Creating our New First Component in React.
+🌿#17. Importing a component into another component (Nesting Component).
